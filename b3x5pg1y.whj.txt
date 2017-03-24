@@ -1,0 +1,11 @@
+﻿Revert "main.txt"
+
+This reverts commit 3d8f93b9a95625cc597c379983c6627a2e0653b9.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   main.txt
+#
+
